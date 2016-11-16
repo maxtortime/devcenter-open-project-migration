@@ -1,6 +1,6 @@
 # 네이버 오픈 프로젝트 `이슈/게시판` 백업/마이그레이션 모듈 
 
-## (* 본 모듈은 소스코드 백업 기능은 제공 안하며, 아래 `소스 코드 로컬 백업 방법` 가이드를 따르시길 바랍니다.)
+### * 본 모듈은 소스코드 백업 기능은 제공 안하며, 소스 코드만 로컬PC로 다운 받으실 분은 아래 `소스 코드 로컬 백업 방법` 가이드를 따르시길 바랍니다.
 
 
 [![Build Status](https://travis-ci.org/naver/devcenter-open-project-migration.svg?branch=master)](https://travis-ci.org/naver/devcenter-open-project-migration)
