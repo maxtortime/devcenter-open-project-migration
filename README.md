@@ -1,4 +1,7 @@
-# nforge-migration
+# 네이버 오픈 프로젝트 `이슈/게시판` 백업/마이그레이션 모듈 
+
+## (* 본 모듈은 소스코드 백업 기능은 제공 안하며, 아래 `소스 코드 로컬 백업 방법` 가이드를 따르시길 바랍니다.)
+
 
 [![Build Status](https://travis-ci.org/naver/devcenter-open-project-migration.svg?branch=master)](https://travis-ci.org/naver/devcenter-open-project-migration)
 [![PyPI](https://img.shields.io/pypi/dm/nforge-migration.svg)](https://pypi.python.org/pypi/nforge-migration)
@@ -6,9 +9,7 @@
 [![PyPI](https://img.shields.io/pypi/l/nforge-migration.svg)](https://pypi.python.org/pypi/nforge-migration)
 [![PyPI](https://img.shields.io/pypi/pyversions/nforge-migration.svg)](https://pypi.python.org/pypi/nforge-migration)
 
-네이버 개발자센터 오픈 프로젝트 이슈/게시판 백업 및 마이그레이션을 위한 Python 모듈입니다. 본 모듈은 [네이버 개발자센터의 오픈 프로젝트](http://dev.naver.com/projects) 의 마이그레이션을 위해 2가지 기능을 제공합니다. 
-
-(* 본 모듈은 소스코드 백업 기능은 제공 안하며, 아래 `소스 코드 로컬 백업 방법` 가이드를 따르시길 바랍니다.)
+네이버 오픈 프로젝트 이슈/게시판 백업 및 마이그레이션을 위한 Python 모듈입니다. 본 모듈은 [네이버 개발자센터의 오픈 프로젝트](http://dev.naver.com/projects) 의 마이그레이션을 위해 2가지 기능을 제공합니다. 
 
 1. 네이버 오픈프로젝트 이슈/게시판 백업: 로컬PC에 개인의 오픈 프로젝트 데이터 (이슈/게시판/첨부 파일 포함)를 백업
 2. Github로 마이그레이션: 로컬PC에 백업한 데이터를 GitHub의 프로젝트로 마이그레이션
